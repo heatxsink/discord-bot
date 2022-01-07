@@ -12,5 +12,6 @@ Followed this tutorial / inspiration from <https://dev.to/aurelievache/learning-
 
 * Clean up error handling.
 * Clean up signal handling.
-* Figure out a clever way of allowing people other than adminUsername to interact with bot.
-* Figure out how to abstract the hardcoded lights() func, and support other devices.
+* Clean up use of `fmt.Sprintf()`, I'm sure this is asking for it.
+* Figure out a clever way of allowing people other than `adminUsername` to interact with bot.
+* Figure out how to abstract the hardcoded `lights()`, and support other devices.
